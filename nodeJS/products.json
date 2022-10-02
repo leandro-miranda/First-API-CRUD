@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Caneta Azul",
+    "price": 2.5,
+    "id": "e96f93ed-ee78-4677-b884-9a298fe0136d"
+  },
+  {
+    "name": "Caderno 96 folhas",
+    "price": 13.2,
+    "id": "01739a85-998e-4745-a346-59e844a50a37"
+  },
+  {
+    "name": "Caderno Flamengo",
+    "price": 15.7,
+    "id": "4518aa67-102d-4988-9df1-749ad1df93f7"
+  }
+]

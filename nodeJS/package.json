@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "nodemon app.js"
   },
-  "keywords": [],
   "author": "Leandro Miranda",
   "license": "MIT",
   "dependencies": {
