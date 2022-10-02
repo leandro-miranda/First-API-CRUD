@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Leandro Miranda",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.18.1",
     "nodemon": "^2.0.20"
